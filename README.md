@@ -16,10 +16,10 @@ It analyzes client financial data and predicts retirement goal achievement using
 ## 📸 Dashboard Preview
 
 ### Page 1 - Overview
-![Finance-Analysis-Dashboard](Dashboard_Overview.png)
+![Finance-Analysis-Dashboard](Pic1.png)
 
 ### Page 2 - Predictions
-![Finance-Analysis-Dashboard Predictions](Predictions_Page.png)
+![Finance-Analysis-Dashboard Predictions](Pic2.png)
 
 Page 1 – Dashboard Overview
 
